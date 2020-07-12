@@ -2,10 +2,12 @@
 This program uses Spotify's API to analyse a user's Spotify playlist and suggests similar artists that do not appear in the playlist.
 
 Instructions: 
+
 Launch the application 'Spotify-Playlist-Recommendations'. A webpage will open automatically. Follow further instructions
 outlined in the 'INSTRUCTIONS' pdf.
 
 Method:
+
 The program collects the recommended artists from each artist in a user's playlist. It compiles these results
 and ranks the recommended artists from most recommended to least recommended. This provides a list of
 recommended artists that are better catered to the genre/vibe of the playlist.
